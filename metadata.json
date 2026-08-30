@@ -1,0 +1,6 @@
+{
+  "name": "HTML LAB",
+  "description": "Aplikasi Pembelajaran Interaktif STM21673 Web Development bagi Topik 2.0 HTML untuk Sijil Teknologi Maklumat (STM), Kolej Komuniti Malaysia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
